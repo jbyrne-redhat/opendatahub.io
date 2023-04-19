@@ -1,0 +1,18 @@
+:_module-type: PROCEDURE
+
+[id="interpreting-bias-metrics_{context}"]
+= Interpreting bias metrics
+
+[role='_abstract']
+
+.Prerequisites
+*
+
+.Procedure
+. 
+
+.Verification
+* 
+
+//[role='_additional-resources']
+//.Additional resources

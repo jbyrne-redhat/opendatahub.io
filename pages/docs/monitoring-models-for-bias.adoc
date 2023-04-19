@@ -1,0 +1,21 @@
+---
+layout: docs
+title: Monitoring Models for Bias
+permalink: /docs/monitoring-models-for-bias
+custom_css: asciidoc.css
+---
+//:self-managed:
+:upstream:
+include::_artifacts/document-attributes-global.adoc[]
+
+
+:doctype: book
+:toc: left
+:compat-mode:
+:context: bias-monitoring
+
+= Monitoring models for bias
+
+//include::modules/providing-feedback-on-red-hat-documentation.adoc[leveloffset=+1]
+
+include::assemblies/monitoring-models-for-bias.adoc[leveloffset=+1]

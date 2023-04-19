@@ -1,0 +1,26 @@
+:_module-type: ASSEMBLY
+
+ifdef::context[:parent-context: {context}]
+
+:context: bias-monitoring
+
+[id="monitoring-models-for-bias_{context}"]
+= Monitoring models for bias
+
+[role="_abstract"]
+As a data scientist, you might need to monitor your machine learning models for bias. Monitoring a model for bias means looking for algorithmic deficincies that might skew the outcomes or decisions that the model produces. Importantly, this type of monitoring helps you to ensure that the model is not biased against particular protected groups or features.
+
+{productname-long} provides a set of bias metrics that help you to monitor your models. You can use the {productname-short} interface to choose a bias metric and a protected feature and group. You then see a chart of the calculated values for over a number of previous observations.
+
+The sections that follow describe how to configure your models for bias monitoring and how to view and interpret the resulting bias metrics.
+
+include::modules/configuring-models-for-bias-monitoring.adoc[leveloffset=+1]
+
+include::modules/monitoring-models-for-bias.adoc[leveloffset=+1]
+
+include::modules/interpreting-bias-metrics.adoc[leveloffset=+1]
+
+include::modules/supported-bias-metrics.adoc[leveloffset=+1]
+
+ifdef::parent-context[:context: {parent-context}]
+ifndef::parent-context[:!context:]

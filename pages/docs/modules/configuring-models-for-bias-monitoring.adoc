@@ -1,0 +1,17 @@
+:_module-type: PROCEDURE
+
+[id='configuring-models-for-bias-monitoring_{context}']
+= Configuring models for bias monitoring
+[role='_abstract']
+
+
+.Prerequisites
+* 
+
+.Procedure
+
+.Verification
+
+// [role="_additional-resources"]
+//.Additional resources
+//* TODO or delete
